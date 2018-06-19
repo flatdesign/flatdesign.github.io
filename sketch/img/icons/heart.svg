@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-team2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-copy" transform="translate(-678.000000, -2690.000000)">
+            <g id="Group-14" transform="translate(678.000000, 2690.000000)">
+                <g id="icon-team2">
+                    <rect id="Rectangle" fill="#F8C332" x="0" y="0" width="60" height="60" rx="20"></rect>
+                    <path d="M30,21.3127646 L29.0747296,20.4026625 C25.7944734,17.3006538 20.6417209,17.3709371 17.4472919,20.5612602 C14.2528629,23.7515833 14.1759523,28.9042411 17.2737394,32.1884843 L30,44.9147448 L42.7262606,32.1733159 C45.8240477,28.8890728 45.7471371,23.7364149 42.5527081,20.5460918 C39.3582791,17.3557688 34.2055266,17.2854855 30.9252704,20.3874941 L30,21.3127646 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

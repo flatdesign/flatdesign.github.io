@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-copy" transform="translate(-240.000000, -3319.000000)">
+            <g id="icon-mail" transform="translate(240.000000, 3319.000000)">
+                <rect id="Rectangle" fill="#8D8E9C" x="0" y="0" width="60" height="60" rx="20"></rect>
+                <path d="M40.4,19 C41.8359403,19 43,20.1752525 43,21.625 L43,37.375 C43,38.8247475 41.8359403,40 40.4,40 L19.6,40 C18.1640597,40 17,38.8247475 17,37.375 L17,21.625 C17,20.18125 18.17,19 19.6,19 L40.4,19 Z M34.719,31.4666667 L43,38 L43,35.3333333 L36.344,30.1333333 L43,24.6666667 L43,22 L30,32.6666667 L17,22 L17,24.6666667 L23.656,30.1333333 L17,35.3333333 L17,38 L25.281,31.4666667 L30,35.3333333 L34.719,31.4666667 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
