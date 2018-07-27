@@ -263,23 +263,27 @@ body {
   margin-right: auto; }
 
 .main-header {
+  transition: all 0.6s ease;
+  background-color: #fff;
   padding-bottom: 20px; }
   .main-header .container {
     display: flex;
     justify-content: space-between; }
   .main-header__logo {
-    width: 160px;
-    height: 40px;
+    transition: all 0.6s ease;
+    width: 200px;
+    height: 50px;
     margin-top: 25px;
     background-image: url("../img/icons/logo-black.svg");
     background-size: contain;
     background-repeat: no-repeat; }
   .main-header__menu {
+    transition: all 0.6s ease;
     padding-top: 12px;
     list-style: none;
     padding-left: 0;
     display: flex;
-    width: 550px;
+    width: 600px;
     justify-content: space-between; }
     .main-header__menu .submenu {
       list-style: none;
@@ -318,7 +322,8 @@ body {
   .main-header__element {
     position: relative; }
     .main-header__element:hover .ss {
-      background: linear-gradient(to right, #e31e24 1%, #f24e22 52%, #e31e24 100%); }
+      background: linear-gradient(to right, #e31e24 1%, #f24e22 52%, #e31e24 100%);
+      box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.3); }
     .main-header__element:hover .submenu {
       visibility: visible;
       opacity: 1;
@@ -336,10 +341,23 @@ body {
     .main-header__link:hover {
       color: #ffffff; }
   .main-header .ss {
+    transition: all 0.6s ease;
     border-radius: 5px;
     display: inline-block;
     -webkit-transform: skewX(-20deg);
             transform: skewX(-20deg); }
+
+.main-header.fixed {
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+  padding-bottom: 0px; }
+  .main-header.fixed .main-header__logo {
+    margin-top: 10px;
+    width: 160px;
+    height: 40px; }
+  .main-header.fixed .main-header__menu {
+    margin-top: 0; }
 
 .slider {
   position: relative;
@@ -372,6 +390,9 @@ body {
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 0%, rgba(125, 185, 232, 0) 100%), url("../img/slider-3png.png"); }
     .slider__item--four {
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6) 0%, rgba(125, 185, 232, 0) 100%), url("../img/slider-4.jpg"); }
+
+.slider.fixed {
+  padding-top: 59px; }
 
 .owl-dots {
   position: absolute;
