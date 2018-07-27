@@ -348,6 +348,7 @@ body {
             transform: skewX(-20deg); }
 
 .main-header.fixed {
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
   width: 100%;
   position: fixed;
   z-index: 1000;
@@ -712,7 +713,7 @@ body {
       background-size: contain; }
 
 .about {
-  background-image: url("../img/about/bridge.png");
+  background-image: url("../img/about/bridge.svg");
   background-repeat: no-repeat;
   background-size: cover;
   color: #2b2a29;
@@ -731,7 +732,7 @@ body {
     width: 500px; }
 
 .sphere {
-  background-image: url("../img/about/station.png");
+  background-image: url("../img/about/station.svg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 36px;
@@ -847,13 +848,13 @@ body {
     background-repeat: no-repeat;
     background-size: contain; }
     .advantages__photo--first {
-      background-image: url("../img/about/advantages-1.png"); }
+      background-image: url("../img/about/advantages-1.svg"); }
     .advantages__photo--second {
-      background-image: url("../img/about/advantages-2.png"); }
+      background-image: url("../img/about/advantages-2.svg"); }
     .advantages__photo--third {
-      background-image: url("../img/about/advantages-3.png"); }
+      background-image: url("../img/about/advantages-3.svg"); }
     .advantages__photo--four {
-      background-image: url("../img/about/advantages-4.png"); }
+      background-image: url("../img/about/advantages-4.svg"); }
   .advantages__description {
     width: 150px;
     font-size: 12px;
